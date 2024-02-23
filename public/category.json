@@ -1,0 +1,81 @@
+
+    [
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_FC_Tile_800x500._CB1671664519_.jpg",
+            "name": "Fulfillment Center Associate",
+            "jobs": "300 Jobs Available",
+            "id": 1
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_SC_Tile_800x500._CB1671664519_.jpg",
+            "name": "Sortation Center Associate",
+            "jobs": "100+ Jobs Available",
+            "id": 2
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_DS_Tile_800x500._CB1671664519_.jpg",
+            "name": "Delivery Station Associate",
+            "jobs": "150 Jobs Available",
+            "id": 3
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_XL_Tile_800x500._CB1671664519_.jpg",
+            "name": "XL Warehouse Associate",
+            "jobs": "200 Jobs Available",
+            "id": 4
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_DCA_Tile_800x500._CB1671664519_.jpg",
+            "name": "Distribution Center Associate",
+            "jobs": "200 Jobs Available",
+            "id": 5
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_GroceryWarehouse_Tile_800x500._CB1671664519_.jpg",
+            "name": "Grocery Warehouse Associate",
+            "jobs": "200 Jobs Available",
+            "id": 6
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_Air_Tile_800x500._CB1671664519_.jpg",
+            "name": "Amazon Air Associate",
+            "jobs": "200 Jobs Available",
+            "id": 7
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_DSP_Tile_800x500._CB1671664519_.jpg",
+            "name": "Amazon DSP Delivery Associate",
+            "jobs": "200 Jobs Available",
+            "id": 8
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_Flex_Tile_800x500._CB1671664519_.jpg",
+            "name": "Amazon Flex Delivery Partner",
+            "jobs": "200 Jobs Available",
+            "id": 9
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_LockerPlus_Tile_800x500._CB1671664519_.jpg",
+            "name": "Amazon Locker+ Associate",
+            "jobs": "200 Jobs Available",
+            "id": 10
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/Hero/US_HP_CS_Tile_800x500._CB1679443446_.jpg",
+            "name": "Customer Service Associate",
+            "jobs": "200 Jobs Available",
+            "id": 11
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/stores/Fresh_Image-800x500._CB649071092_.jpg",
+            "name": "Amazon Stores",
+            "jobs": "200 Jobs Available",
+            "id": 12
+        },
+        {
+            "logo": "https://m.media-amazon.com/images/G/01/wfs/JobLandingPagePhotos/Pharmacy_800x500.jpg",
+            "name": "Amazon Pharmacy",
+            "jobs": "200 Jobs Available",
+            "id": 13
+        }
+    ]
